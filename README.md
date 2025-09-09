@@ -2,8 +2,7 @@
 
 ## Project Overview
 
-**SynthCorp** is a futuristic automated manufacturing system designed to restore and modernize a malfunctioning factory using robust Object-Oriented Programming (OOP) principles and proven design patterns. The system simulates a smart factory where robotics, AI-driven workflows, and real-time monitoring work together to optimize production, ensure safety, and streamline resource management in Java.
-
+**SynthCorp** is a smart manufacturing system built in Java using OOP and design patterns. It simulates an automated factory with robots, real-time monitoring, inventory control, and safety features. Patterns like Singleton, Factory, Observer, Strategy, Facade, and State ensure scalability and efficiency.
 ---
 
 ## Problem Statement
